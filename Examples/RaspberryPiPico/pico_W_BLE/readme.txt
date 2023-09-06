@@ -3,6 +3,10 @@ Project for the Raspberry Pi Pico using the BLE module and functionality.
 See:
 https://mcuoneclipse.com/2023/03/19/ble-with-wifi-and-freertos-on-raspberry-pi-pico-w/
 
+https://bluekitchen-gmbh.com/btstack/v1.0/appendix/apis/
+
+
+
 The project implements a client and a server (standalone BLE):
 The server provides temperature data, and the client gets the data from the server.
 
